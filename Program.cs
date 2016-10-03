@@ -8,6 +8,7 @@ namespace Week1
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             int[] numbers = { 4, 34, 543, 45, 4345, 5454, 34543, 2234, 2342, 10, 35, 3 };
